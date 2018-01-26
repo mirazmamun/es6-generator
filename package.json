@@ -1,0 +1,24 @@
+{
+  "name": "@mirazalmamun/es6-boilerplate",
+  "version": "1.0.0",
+  "description": "ES6 webpack boilerplate generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirazmamun/webpack2-starter-kit.git"
+  },
+  "keywords": [
+    "ES6",
+    "webpack",
+    "starter-kit"
+  ],
+  "author": "Miraz Al-Mamun <mirazmamun@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirazmamun/webpack2-starter-kit/issues"
+  },
+  "homepage": "https://github.com/mirazmamun/webpack2-starter-kit#readme"
+}

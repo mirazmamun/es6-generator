@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+const es6Generator = require('../src/index.js');
+es6Generator();
